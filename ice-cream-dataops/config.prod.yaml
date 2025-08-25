@@ -28,3 +28,6 @@ variables:
           oee_space_name: oee_ts_space
           data_pipeline_oee_client_id: ${DATA_PIPELINE_OEE_CLIENT_ID}
           data_pipeline_oee_client_secret: ${DATA_PIPELINE_OEE_CLIENT_SECRET}
+
+      data_foundation:
+        data_developer_source_id: 9ff8686c-0495-4c9a-8a59-aeb7283c6764
