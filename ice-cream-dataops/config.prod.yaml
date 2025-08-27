@@ -1,7 +1,7 @@
 environment:
-  name: test
+  name: prod
   project: cdf-bootcamp-21-prod
-  validation-type: test
+  validation-type: prod
   selected:
   - modules/
 
